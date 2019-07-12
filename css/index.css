@@ -1,0 +1,118 @@
+.logo {
+    margin: 0 0 0 15px;
+    color: white;
+}
+
+.buttons {
+    position: absolute;
+    right: 0;
+    margin-right: 9em;
+}
+
+.title {
+    color: white;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.desc {
+    font-weight: 200;
+    color: #63768B;
+    width: 600px;
+    margin-left: calc(50% - 300px);
+}
+
+.narrow {
+    width: 300px;
+}
+
+.descmini {
+    font-weight: 200;
+    color: #63768B;
+    width: 300px;
+}
+
+.works {
+    margin: 10px 0 0 20px;
+    color: white;
+}
+.pushin {
+    margin-left: 35%;
+}
+
+.pushdown {
+    margin-top: 5%;
+}
+
+.space {
+    margin-top: 20px;
+}
+
+.centercenter {
+    margin-top: -20px;
+}
+
+.pullleft {
+    margin-left: -4%;
+    margin-right: 3%;
+}
+
+.shadow {
+    text-shadow: 2px 2px;
+}
+
+.largetitle {
+    font-size: 4em;
+    width: 350px;
+    color: white;
+}
+
+.predesc {
+    margin-bottom: -50px;
+    font-size: 1.3em;
+    color: #F3705A;
+}
+
+.underdesc {
+    font-weight: 200;
+    color: #63768B;
+    width: 600px;
+    margin-top: -25px;
+    line-height: 1.5em;
+}
+
+.space2 {
+    margin-top: 150px;
+}
+
+.mainimage {
+    margin: 150px 0 0 16%;
+}
+
+.counting {
+    color: #F3705A;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.sameline {
+    display: flex;
+    justify-content: space-beteen;
+}
+
+p2 {
+    color: #63768B;
+}
+
+.fas {
+    margin: 0 5% 0 15%;
+    color: white;
+}
+
+.grid-wrapper-equal-thirds {
+    margin: 64px 0 64px 0;
+}
